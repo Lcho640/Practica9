@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:#acffc9;
+    color: white;
+}
+article{
+    background-color:#c7fce9;
+    width: 100%;
+    height: 950px;
+}
+footer{
+    background-color: #acffc9;
+    width: 100%;
+    height: 150px;
+    float: left;
+    position: relative;
+    bottom: 0;
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10px;
+}
