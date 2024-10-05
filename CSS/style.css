@@ -23,3 +23,17 @@ footer{
     text-align: center;
     padding: 10px;
 }
+
+.nosotros{
+    text-align: justify;
+    margin: 50px 10%;
+}
+
+.tablas img{
+    width: auto;
+    height: 450px;
+}
+
+.tablas{
+    margin: 20px;
+}
